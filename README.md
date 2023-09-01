@@ -1,2 +1,2 @@
 # Work
-ETC
+Physics Homework Calculator 2022
